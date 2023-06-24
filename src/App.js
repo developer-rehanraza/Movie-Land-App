@@ -10,7 +10,8 @@ import SearchIcon from './search.svg';
 // 7b71ee54
 
 // const API_URL = 'http://www.omdbapi.com?apikey=7b71ee54';
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=7b71ee54';
+// const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=7b71ee54';
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=7b71ee54';
 
 // const movie1 = {
 //     "Title": "Guardians of the Galaxy Vol. 2",
